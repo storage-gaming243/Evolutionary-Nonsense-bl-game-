@@ -13,3 +13,9 @@
     position: absolute;
     top: 40px;
 }
+
+#dia {
+    position: absolute;
+    top: 100px;
+    left: 800px;
+}
