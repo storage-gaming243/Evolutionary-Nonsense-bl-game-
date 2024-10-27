@@ -52,5 +52,6 @@ setInterval(function coconut() {
     if (state > 5) {
         document.getElementById("simulate").innerHTML = `重開檔案重來`;
         state = 5;
+        tstate = 5;
     }
 }, 42);
